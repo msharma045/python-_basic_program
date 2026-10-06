@@ -1,0 +1,5 @@
+side = float(input("Enter side: "))
+
+volume = side ** 3
+
+print("Volume =", volume)
